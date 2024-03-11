@@ -1,0 +1,2 @@
+foodname,price
+biryamni,150
